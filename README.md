@@ -141,7 +141,7 @@ python app.py
 - **Anomaly Scoring** for better threat classification.
 
 ## Contributor
-**Mohammed Ghayasuddin**
+**Rohith Kumar Saravanan**
 
 
 
